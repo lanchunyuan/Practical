@@ -1,0 +1,10 @@
+locations = ['himalaya', 'andes', 'tierra del fuego', 'labrador', 'guam']
+print("Original order:")
+print(locations)
+print('Sorted order:')
+print(sorted(locations))
+print(sorted(locations,reverse=True))
+print("Original order:")
+print(locations)
+print(locations.sort())
+print(locations)
